@@ -1,0 +1,30 @@
+﻿button {
+  border-radius: 10px;
+  margin-bottom: 15px;
+  width: 150px;
+  height: 40px;
+  font-size: x-large;
+  font-weight: bold;
+  color: darkblue;
+  cursor: pointer; /* Hace que el cursor muestre 
+  una mano al pasar sobre el boton, en lugar de
+  la flecha habitual */
+}
+
+.boton-click {
+  background-color: darkgoldenrod;
+}
+
+.boton-click:hover {
+  background-color: darkgreen;
+  color: white;
+}
+
+.boton-reiniciar {
+  background-color: lightskyblue;
+}
+
+.boton-reiniciar:hover {
+  background-color: darkgreen;
+  color: white;
+}
